@@ -7,3 +7,6 @@ first01/Debug/first01.ilk
 *.pdb
 *.idb
 *.obj
+*.opendb
+*.tlog
+*.log
