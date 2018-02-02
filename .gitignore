@@ -10,3 +10,8 @@ first01/Debug/first01.ilk
 *.opendb
 *.tlog
 *.log
+*.db
+*.ipch
+*.pch
+*.vcxproj
+*.filters
