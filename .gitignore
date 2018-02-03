@@ -15,3 +15,7 @@ first01/Debug/first01.ilk
 *.pch
 *.vcxproj
 *.filters
+DesktopOne/.vs/DesktopOne/v15/.suo
+DesktopOne/Debug/DesktopOne.exe
+*.sln
+*.ilk
