@@ -29,3 +29,12 @@ bool CBox::operator<(CBox& aBox) const
 {
 	return volume() < aBox.volume();
 }
+
+bool CBox::operator==(CBox& aBox) const {
+	return volume() = aBox.volume();
+}
+
+double CBox::volume() const {
+	return m_Length * m_Width * m_Height;
+}
+
