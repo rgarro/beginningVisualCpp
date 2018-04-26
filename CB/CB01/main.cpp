@@ -1,9 +1,12 @@
 #include <iostream>
+#include "person.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    Person joe;
+    joe.whatYouGotf();
+
     return 0;
 }
